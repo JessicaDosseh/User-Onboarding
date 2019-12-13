@@ -1,7 +1,9 @@
 import React from 'react'; 
 
 const Form = (props) => {
-  return null; 
+  return (
+    <div>Data</div>
+  ); 
 }
 
 export default Form; 
